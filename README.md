@@ -1,3 +1,3 @@
 # HitungUmur
 
-Aplikasi ini dibuat untuk memenuhi tugas Mobile Programming
+Aplikasi ini dibuat untuk memenuhi tugas Mobile Development
